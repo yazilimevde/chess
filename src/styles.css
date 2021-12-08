@@ -1,0 +1,12 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: 10;
+}
+.div1 {
+  background: "#228B22";
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  justify-content: center;
+}
