@@ -5,17 +5,27 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@babel/runtime": "7.16.3",
     "@material-ui/core": "4.12.2",
     "@material-ui/icons": "4.11.2",
     "@material-ui/styles": "4.11.4",
+    "bluebird": "3.7.2",
     "chess.js": "0.12.0",
     "chessboardjsx": "2.4.7",
     "classnames": "2.3.1",
+    "lodash": "4.17.21",
+    "qs": "6.10.2",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-is": "17.0.2",
     "react-router-dom": "5.2.0",
     "react-scripts": "4.0.0",
-    "roughjs": "4.4.1"
+    "readable-stream": "3.6.0",
+    "roughjs": "4.4.1",
+    "rxjs": "7.4.0",
+    "tslib": "2.3.1",
+    "typescript": "4.5.2",
+    "uuid": "8.3.2"
   },
   "devDependencies": {
     "@babel/runtime": "7.13.8",
